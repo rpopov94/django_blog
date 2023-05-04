@@ -1,5 +1,6 @@
 from django.http import Http404
 from django.shortcuts import render, get_object_or_404
+from django.views.generic import ListView
 
 from .models import Post
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
@@ -33,3 +34,10 @@ def post_detail(request, post):
     return render(request,
                   'blog/posts/detail.html',
                   {'post': post})
+
+
+class PostListView(ListView):
+    queryset = Post.published.all()
+    context_object_name = 'posts'
+    paginate_by = 3
+    template_name = 'blog/posts/list.html'
