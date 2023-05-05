@@ -10,6 +10,8 @@ packages = [{include = "django_blog"}]
 python = "^3.11"
 django = "^4.2"
 python-dotenv = "^1.0.0"
+django-taggit = "3.0.0"
+markdown = "3.4.1"
 
 
 [build-system]
