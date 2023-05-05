@@ -13,8 +13,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-pv02b=a0vdirq5h(la_^&
 DEBUG = os.environ.get('DEBUG', 1)
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
+SITE_ID = 1
 
 # Application definition
 
@@ -25,12 +26,18 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.sites',
+    'django.contrib.sitemaps'
 ]
+
+# User's apps
 
 INSTALLED_APPS += [
     'blog.apps.BlogConfig',
     'taggit'
 ]
+
+# middlewares
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -119,6 +126,8 @@ MEDIA_ROOT = BASE_DIR / 'media'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Setting for email service
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.mail.ru'
