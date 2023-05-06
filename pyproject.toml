@@ -12,6 +12,7 @@ django = "^4.2"
 python-dotenv = "^1.0.0"
 django-taggit = "3.0.0"
 markdown = "3.4.1"
+psycopg2-binary = "^2.9.6"
 
 
 [build-system]

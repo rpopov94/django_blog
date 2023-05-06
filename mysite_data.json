@@ -1,0 +1,1095 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-05-04T12:05:20.023Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "post_1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-05-04T12:05:42.061Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "test_2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-05-04T12:05:54.837Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "����_3",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-05-04T12:06:10.237Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "����_4",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-05-04T12:06:19.869Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "����_5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-05-04T12:06:38.774Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "����_6",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-05-04T12:06:48.552Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "����_7",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-05-04T12:06:57.959Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "����_8",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-05-04T12:07:07.176Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "����_9",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-05-04T12:07:16.703Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "����_10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-05-04T12:07:45.787Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by morgan freeman on post_1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-05-04T12:08:18.763Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by morgan freeman on post_1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-05-04T12:08:29.996Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Comment by test1 test1 on ����_7",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-05-04T12:08:38.007Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comment by ����� ����� on ����_10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-05-04T12:08:44.438Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Comment by ���� ����� on ����_5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-05-04T12:08:52.245Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Comment by JHGJ JFUF on ����_3",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-05-04T14:43:34.955Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "djnago",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0442\\u0435\\u0441\\u0442_5 tagged with djnago\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0442\\u0435\\u0441\\u0442_3 tagged with djnago\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"test_2 tagged with djnago\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-05-05T11:32:39.554Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "markdonw",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0442\\u0435\\u0441\\u0442_10 tagged with markdonw\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-05-05T11:32:53.074Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "����_10",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-05-05T11:53:36.712Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$dDZE4Aw79IyvS1PsJmRKK7$zaUdnkkIGP58yw5caZUd+96+JyrUmNmw9mnO/SHpqMI=",
+    "last_login": "2023-05-05T11:53:06.167Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@email.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-05-04T12:01:55.785Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9fdb0steq79a2zbqrwuupkhrf8omjydl",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyEUaFk8eu83kGUXpGog6eNk_HdD0oNeZybzFgGPvYRjS2tYWFzFIC6_LCI9U-2CH1jvTVKr-7pE2RN52k3OjdPrdrZ_g4Jb6VticAysnR0nBaM2SNkgKE-gwAI5Z1yejFbGuzSw1SNHtFbp6Cl7Kz5fwI828g:1puXgD:UH5P-2xtrkSLFDdO9R34kSKBvnDyFDZdeawMIH4u7Vk",
+    "expire_date": "2023-05-18T12:03:25.923Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "t6s3wxenblfsk5pul0pjid4hgl6do63d",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyEUaFk8eu83kGUXpGog6eNk_HdD0oNeZybzFgGPvYRjS2tYWFzFIC6_LCI9U-2CH1jvTVKr-7pE2RN52k3OjdPrdrZ_g4Jb6VticAysnR0nBaM2SNkgKE-gwAI5Z1yejFbGuzSw1SNHtFbp6Cl7Kz5fwI828g:1putzm:9Jpt-qCqHZZPNq2XdOukcx3CCBrDCw-XRHeBuxawvu8",
+    "expire_date": "2023-05-19T11:53:06.171Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "post_1",
+    "slug": "post_1",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:03:29Z",
+    "created": "2023-05-04T12:05:20.022Z",
+    "updated": "2023-05-04T12:05:20.022Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "test_2",
+    "slug": "test_2",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:05:22Z",
+    "created": "2023-05-04T12:05:42.059Z",
+    "updated": "2023-05-04T12:05:42.059Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "����_3",
+    "slug": "test_3",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:05:42Z",
+    "created": "2023-05-04T12:05:54.834Z",
+    "updated": "2023-05-04T12:05:54.834Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "����_4",
+    "slug": "test_4",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:05:57Z",
+    "created": "2023-05-04T12:06:10.235Z",
+    "updated": "2023-05-04T12:06:10.235Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "����_5",
+    "slug": "test_5",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:06:10Z",
+    "created": "2023-05-04T12:06:19.868Z",
+    "updated": "2023-05-04T12:06:19.868Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "����_6",
+    "slug": "test_6",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:06:27Z",
+    "created": "2023-05-04T12:06:38.773Z",
+    "updated": "2023-05-04T12:06:38.773Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "����_7",
+    "slug": "test_7",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:06:38Z",
+    "created": "2023-05-04T12:06:48.549Z",
+    "updated": "2023-05-04T12:06:48.549Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "����_8",
+    "slug": "test_8",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:06:48Z",
+    "created": "2023-05-04T12:06:57.957Z",
+    "updated": "2023-05-04T12:06:57.957Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "����_9",
+    "slug": "test_9",
+    "author": 1,
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "publish": "2023-05-04T12:06:57Z",
+    "created": "2023-05-04T12:07:07.174Z",
+    "updated": "2023-05-04T12:07:07.174Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "����_10",
+    "slug": "test_10",
+    "author": 1,
+    "body": "# ������ Python. ����� 1\r\n\r\n`Python` - ��� ��������������� ���� ����������������, ��������� ����� ���������, ��� ��������� ������ ������������� ������� ����������. ������� ����������\r\n`Python` ����� �������, ��� �������� � ���� ML, DataScience, Web. �� ������ �� �������� ������ ���������� ������� ����� ��� Instagram, Netflix, Spotify � ��� ��.\r\n� ������ ����� ������ ����������� ������� ������ � ��������� Python. \r\n\r\n������ �����, ������ ��� ���������� � �������, ���������� ������� ��� `Python` ��� ���������������� ���� ����������������.\r\n\r\n���������������� ���� ���������������� - ��� ���� ����������������, ������� ����������� �������� �� ����� ����������, ��� ������������� ��������������� ����������.\r\n������������ ���������������� ������ �������� ����� ������� ���������� � ����� ������� �������, ��� ��� ����������� ����� ��������� ���������� ������ ������ ���� �� ���� ����������.\r\n� ������� ��������������� ������ ����������������, ����� ���������� � ����������� �������.\r\n\r\n## ��������� Python\r\n\r\n��� ���� ����� ������ �������� � python, ���������� ��� ���������� �� ��� ���������:\r\n\r\n��������� Python ����� ������� ����������� � ����������� �� ������������ �������, ������� �� �����������. ��� ��������� ���������� ��� ��������� Python �� ��������� ����������:\r\n\r\n*Windows*\r\n\r\n1. ��������� �� ����������� [����](python.org) Python � ��������� ��������� ������ Python ��� Windows.\r\n2. ��������� ����������� ������������ ����.\r\n3. � ����������� ���� ����������� �������� ����� \"Add Python to PATH\" � ������� ������ _Customize installation_.\r\n4. �������� ����� _Install for all users_, �������� ���� ��������� (�� ��������� \"C:\\Python39\") � ������� ������ _Install_.\r\n5. ����� ���������� ��������� ����� ��������� ������������ ���������, ������ ��������� ������ � ����� ������� python. ���� ��������� ������ �������, �� ������ ������� ������ Python � ����������� ��� ����� ������.\r\n\r\n*Linux*\r\n\r\n1. �������� �������� � ��������� ��������� �������, ����� ���������� ����������� �����������:\r\n```bash\r\n$ sudo apt update\r\n$ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget\r\n```\r\n2. ��������� �� ����������� ���� [Python](python.org) � ��������� ��������� ������ Python ��� Linux.\r\n3. ���������� ����� � ����������� ������ � ������� ������� `tar -xf <���_������>.tar.xz`.\r\n4. ��������� � ����������, � ������� ��� ���������� �����, � ��������� ��������� �������:\r\n```bash\r\n$ cd path/to/file\r\n$ . ./configure --enable-optimizations\r\n$ make -j$(nproc)\r\n$ sudo make altinstall\r\n```\r\n5. ����� ���������� ��������� ����� ��������� ������������ ���������, ������ �������� � ����� ������� `python3 -v`. ���� ��������� ������ �������, �� ������ ������� ������ Python � ����������� ��� ����� ������.\r\n\r\n## ���� ������\r\n\r\n����� ���� ��� �� ���������� `python` �� ��� ��������� �������� � �������� �������� ����� `python`:\r\n\r\n� ����� ���������������� Python ���������� ���������� (mutable) � ������������ (immutable) ���� ������. �� ����� ���� �� ���� ����� ���������������.\r\n\r\n������������ ���� ������:\r\n - �����,\r\n - ������ \r\n - ������� (tuple) \r\n���� �������� ���������� ���� ������������� ������� ����������, �� ��������� ����� ������. ��������:\r\n\r\n```python\r\nx = 42\r\ny = x  # ��������� ����� ����������, ���������� ������ �� ��� �� ������\r\nx = 43  # ��������� ����� ������\r\n```\r\n\r\n���������� ���� ������, ����� ��� ������ _list_, ��������� _set_ � ������� _dict_, ����� ���� �������� ����� �� ��������. ���� �������� ���������� ���� ����������� ������� ����������, �� ������ ���������� � ������, � ��� ����������, ������� ��������� �� ���� ������, ����� ���������� ��� ����� ���������. ��������:\r\n����� �������� ������� ����� ����������� � ������������� ������ ������, ����� �������� ����������� ����������� ��� ������ � �����������.\r\n\r\n```python\r\nlst1 = [1, 2, 3]\r\nlst2 = lst1  # ��������� ����� ����������, ���������� ������ �� ��� �� ������\r\nlst1.append(4)  # ���������� ������, �� ������� ��������� ���������� lst1\r\nprint(lst2)  # [1, 2, 3, 4]\r\n```\r\n\r\n`Python` ������������ ��������� ���� ������, ������� �����, ������, ���������� �������� � ������ � �������.\r\n\r\n### �����\r\n\r\n`Python` ������������ ��� ���� �����: ����� ����� _int_, ����� � ��������� ������ _float_ � ����������� ����� _complex_.\r\n\r\n```python\r\nx = 10         # int\r\ny = 3.14       # float\r\nz = 2 + 3j     # complex\r\n```\r\n\r\n### ������\r\n������ � Python ����� ���� ��������� � ��������� (') ��� ������� (\") �������. ��� ����� ��������� ����� �������, ������� ����� � ����� ����������.\r\n\r\n```python\r\nname = 'John'         # ��������� �������\r\nmessage = \"Hello!\"    # ������� �������\r\n```\r\n\r\n### ���������� ��������\r\n`Python` ������������ ��� ���������� ��������: `True` � `False`. ��� ������������ ��� ��������� ���������� ��� �������� �����������.\r\n\r\n```python\r\nis_ready = True\r\nis_done = False\r\n```\r\n\r\n### ������\r\n\r\n������ ��� �����������-�� ������, �������� ����� ���� ������� �� ������� ���.\r\n����������, ������ � `Python` ����� ��������� ����� ���� ������, ������� ������ ������. ��� ����� ���������� ����� ��������.\r\n\r\n��������� ������ ����� � ������� `[]` ��� � � ������� ������� `list()`\r\n\r\n```python\r\nnumbers = [1, 2, 3, 4, 5]\r\nnames = ['John', 'Mary', 'Bob']\r\nmixed = [1, 'John', True]\r\nlist_in_List = [1, 2, 3, 4, ['John', 'Mary', 'Bob']]\r\n#���������� \r\nmy_list = list(1, 2, 4)\r\n```\r\n\r\n### ����������\r\n\r\n���������� � `Python` ������������ ��� �������� �������� � ������������ ���� ��������. ���������� ��������� ������������� �������� ����������.\r\n\r\n```python\r\nx = 10\r\nname = 'John'\r\nis_ready = True\r\n```\r\n\r\n### �������\r\n������� � `Python` �������� �������������� ����������� ���������, ������� ����� ���� ������ ���� ������, �� �� ����� ���� �������� ����� ��������. ������� ��������� � ������� ������� ������ `()` ��� `tuple()`, �������� �������� ��������. ��������:\r\n\r\n```python\r\nmy_tuple = (1, 2, \"three\", True, 4.5)\r\n```\r\n�������\r\n������� � `Python` ������������ ����� ��������������� ��������� ��� ����-��������. ������� ��������� � ������� �������� ������ `{}` ��� `dict()`, �������� �������� ���������� � ���� ����-�������� ��������. ��������:\r\n\r\n```python\r\nmy_dict = {\"name\": \"John\", \"age\": 30, \"city\": \"New York\"}\r\n```\r\n\r\n## ���������\r\n`Python` ������������ ��������� ���������, ������� ��������������, ���������� � ���������.\r\n\r\n### �������������� ���������\r\n\r\n```python\r\nx = 10\r\ny = 5\r\nsum = x + y        # ��������\r\ndifference = x - y # ���������\r\nproduct = x * y    # ���������\r\nquotient = x / y   # �������\r\nremainder = x % y  # ������� �� �������\r\n```\r\n\r\n### ���������� ���������\r\n```python\r\nx = True\r\ny = False\r\nand_result = x and y\r\n```\r\n\r\n_����������: ������� �� ����������� �������� ������� ��� ������ � python: ��������� � ������� ���� ������_\r\n��������� ������ �������� �� [������](https://rpopov94.gitnub.io/articles/python_basics_part_2/)",
+    "publish": "2023-05-04T12:07:07Z",
+    "created": "2023-05-04T12:07:16.701Z",
+    "updated": "2023-05-05T11:32:53.066Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "morgan freeman",
+    "email": "freemanfreaman@gmail.com",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������.",
+    "created": "2023-05-04T12:07:45.785Z",
+    "updated": "2023-05-04T12:07:45.785Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 1,
+    "name": "morgan freeman",
+    "email": "morgan@gmail.com",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� ����������� �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "created": "2023-05-04T12:08:18.761Z",
+    "updated": "2023-05-04T12:08:18.761Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 7,
+    "name": "test1 test1",
+    "email": "111151@example.ru",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "created": "2023-05-04T12:08:29.995Z",
+    "updated": "2023-05-04T12:08:29.995Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 10,
+    "name": "����� �����",
+    "email": "roman.popoff1994@yandex.ru",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "created": "2023-05-04T12:08:38.005Z",
+    "updated": "2023-05-04T12:08:38.005Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 5,
+    "name": "���� �����",
+    "email": "rpopov@jinr.ru",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "created": "2023-05-04T12:08:44.437Z",
+    "updated": "2023-05-04T12:08:44.437Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 3,
+    "name": "JHGJ JFUF",
+    "email": "freeamanfreaman@gmail.com",
+    "body": "������ ����� - ��� ������ ������������� �����, ������� ������������ ��� ������������ ������� ��� �����������. �� �� ����� �������� ������, �� ����� ��� �����������. ��-������, ��� ��������� �������, ��� ����� ����� ��������� �� ��������. ��-������, ��� ��������� �������, ��� ��������� ������ ����� ��������� � ��������� �������� � �� ������ �������. ������ ������������ ������� � ���, ��� ������ ����� ����� ���� ����������� ��� ������ ��������� ���� �� �������� �����, ������� ��� �� ����� ��� ����������. ����� ����, ������������� ������� ������ ����� ����������� �������� ������� �������� ���������� ��� ���-�������. �������, �� ����� ���� ����������� ��� ����������� ����������� ������ � �����������, ����� ��� ������������ ���������� ����� ������� ��� ���������. ������, �� ����� �������������� ������ �������, ���� �� �� ����� �������� �������� � �������������� �����.",
+    "created": "2023-05-04T12:08:52.244Z",
+    "updated": "2023-05-04T12:08:52.244Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 1,
+    "name": "���� �����",
+    "email": "rpopov@jinr.ru",
+    "body": "{% include \"blog/post/includes/comment_form.html\" %}",
+    "created": "2023-05-04T12:33:05.097Z",
+    "updated": "2023-05-04T12:33:05.097Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 8,
+  "fields": {
+    "post": 1,
+    "name": "���� �����",
+    "email": "rpopov@jinr.ru",
+    "body": "sdfffffffffffffffffffffff",
+    "created": "2023-05-04T14:23:12.235Z",
+    "updated": "2023-05-04T14:23:12.235Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "djnago",
+    "slug": "djnago"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "misic",
+    "slug": "misic"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdonw",
+    "slug": "markdonw"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 10
+  }
+}
+]
